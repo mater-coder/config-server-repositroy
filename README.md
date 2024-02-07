@@ -1,1 +1,1 @@
-This project containing configurations of microservices
+This project is containing configurations of microservices
